@@ -48,6 +48,10 @@ namespace NvAPIWrapper.Native.GPU
         /// </summary>
         VisualComputingOutlet = 11,
 
+        MemoryJunction = 12,
+
+        Hotspot = 13,
+
         /// <summary>
         ///     Used for retrieving all thermal settings
         /// </summary>
